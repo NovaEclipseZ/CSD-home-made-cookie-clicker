@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cookie-col {
+    width: 40%;
+    height: 100%;
+}
+
+#upgrade-col {
+    width: 60%;
+    height: 100%;
+}
